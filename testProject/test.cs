@@ -2,5 +2,8 @@
 {
     public class test
     {
+        
+        string str = "nechami";
+        
     }
 }
