@@ -4,6 +4,7 @@
     {
         
         string str = "nechami";
+        string str2 = "levin";
         
     }
 }
